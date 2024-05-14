@@ -1,2 +1,2 @@
 # test
-Testing to use gihtub
+Testing to use Github
